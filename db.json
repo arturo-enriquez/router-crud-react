@@ -1,0 +1,46 @@
+{
+  "productos": [
+    {
+      "precio": "50",
+      "nombre": "Tacos de carne asada",
+      "categoria": "postre",
+      "id": 5
+    },
+    {
+      "nombre": "Cereal",
+      "precio": "20",
+      "categoria": "postre",
+      "id": 7
+    },
+    {
+      "nombre": "Licuado platano 1Lt",
+      "precio": "30",
+      "categoria": "bebida",
+      "id": 8
+    },
+    {
+      "precio": "120",
+      "nombre": "Ensalada de Pollo y Verduras",
+      "categoria": "ensalada",
+      "id": 9
+    },
+    {
+      "precio": "12",
+      "nombre": "Hot dog",
+      "categoria": "cortes",
+      "id": 10
+    },
+    {
+      "nombre": "Pizza",
+      "precio": "89",
+      "categoria": "postre",
+      "id": 11
+    },
+    {
+      "nombre": "Palomitas",
+      "precio": "15",
+      "categoria": "postre",
+      "id": 12
+    }
+  ]
+}
